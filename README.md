@@ -1,3 +1,4 @@
+# DEPRECATED . Only reference use purpose 
 # Install
 Download and copy the `Iazel` directory into `app/code/` or install using composer
 
